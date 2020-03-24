@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Exerc.02 - Converte temperatura de Celsios para Fahrenheit</string>
+
+    <string name="lblTemp">Temperatura</string>
+    <string name="radioFahrenheit">Converter p/ Fahrenheit</string>
+    <string name="radioCelsios">Converter p/ Celsios</string>
+    <string name="converte">Converter</string>
+</resources>
